@@ -1,4 +1,4 @@
-This project is built to create basic CRUD operations with the help of Spring boot, React and MySql.
+This project is built to perform basic CRUD operations with the help of Spring boot, React and MySql.
 
 To run the project, below are the pre-requisite tools:
 1. Maven
